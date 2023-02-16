@@ -39,6 +39,6 @@ public class LeituraDadosTeclado{
         System.out.println("Quantidade de filhos: " + qtdFilhos);
         System.out.println("Altura: " + altura);
         System.out.println("Tem bichinho de estimação? " + temPet);
-
+        teclado.close();
     }
 }
