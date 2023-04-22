@@ -1,5 +1,7 @@
 package aula39;
 
+import aula39.teste.Aluno;
+
 public class Teste {
     public static void main(String[] args) {
         
